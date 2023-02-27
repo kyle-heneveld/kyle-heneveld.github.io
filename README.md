@@ -1,2 +1,1 @@
 # Kyle Heneveld
-theme: architect
